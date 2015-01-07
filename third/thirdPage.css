@@ -1,0 +1,47 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+.gray{
+	height: 15%;
+	background-color:gray;
+	width: 100%;
+}
+.smallBox{
+	height: 80%;
+	width: 10%;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: blue;
+	
+}
+.text{
+	height: 30%;
+	padding: 5%;
+
+}
+p{
+	font-size: 30px;
+}
+.makeBlue{
+	height: 15%;
+	width: 100%;
+	float: bottom;
+	background-color: blue;
+
+}
+.makeCyan{
+	height: 15%;
+	background-color: lightblue;
+
+}
+.makeYuk{
+	height: 15%;
+	background-color: lightyellow;
+
+}
+.makeYellow{
+	height: 10%;
+	background-color: yellow;
+
+}
