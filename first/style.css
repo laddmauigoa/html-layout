@@ -1,0 +1,27 @@
+html, body{
+	background-color: lightgrey;
+	height: 100%;
+	
+}
+
+.top{
+	height: 20%;
+	background-color: rgba(64, 63, 63, 1);
+}
+
+.mid{
+	background-color: white;
+	width: 75%;
+	height: 80%;
+	margin: 0 auto;
+	float: bottom;
+
+
+}
+.bottom{
+	background-color:  rgba(64, 63, 63, 1);
+	width: 75%;
+	height: 10%;
+	margin: 0 auto;
+	float: bottom;
+}
